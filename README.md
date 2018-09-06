@@ -1,11 +1,13 @@
 # Paul Suarez
 ## Software Developer
-#### Seattle, WA | ​PaulSuarezSales@gmail.com​ | 907.616.1606 linkedin.com/in/PaulSuarezSales​ | ​github.com/PaulSuarez1
+#### Seattle, WA | ​PaulSuarezSales@gmail.com​ | 907.616.1606 <a href="https://www.linkedin.com/in/paulsuarezsales/">linkedin.com/in/PaulSuarezSales​</a> | ​<a href="https://github.com/PaulSuarez1">github.com/PaulSuarez1</a>
 ##### Java enthusiast with a 5+ year background in sales management and customer service. Experienced at scoping projects, solving problem domains, and delivering a premium product/experience.
 #### Technical Skills
-##### Languages:​ Java, JavaScript, HTML5, CSS, JQuery, ReGex, SQL
-##### Standards:​ Agile, RESTful, API development
-##### Frameworks, Libraries, and Tools:​ Spring, Node, Express, npm, git, GitHub, Postgres
+```
+ Languages:​ Java, JavaScript, HTML5, CSS, JQuery, ReGex, SQL
+ Standards:​ Agile, RESTful, API development
+ Frameworks, Libraries, and Tools:​ Spring, Node, Express, npm, git, GitHub, Postgres
+```
 #### Projects
 ##### EncryptNode | August 2018 | ​github.com/encryptnode
 ##### Blockchain cryptocurrency (SHA256) runs locally and communicates with a deployed database via a RESTful web server to provide authenticated user (BCrypt) results. encryptnode.com
