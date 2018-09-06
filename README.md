@@ -16,7 +16,7 @@
 ##### Code Fellows | Seattle, WA
 ##### Certificate - Advanced Software Development in Full-Stack Java and JavaScript
 ##### University of Phoenix | Seattle, WA Coursework in Computer Science
-####Experience
+#### Experience
 ##### AT&T | Sales Manager | 2014 – Present
 ###### ● Developed managers to produce premium customer experiences; teams went on to generate scores at 190% previous results.
 ###### ● Exceeded fiscal expectations and lifted employee sales in multiple metrics beyond a 2x increase YoY
